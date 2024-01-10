@@ -39,3 +39,40 @@ MySQL is used on the backend, suggesting a need for a robust database to store a
 PHP on the backend implies dynamic content generation, allowing for the customization and real-time updating of information on the platform.
 
 ### Live : https://realestate-r69c.onrender.com
+
+## SCREENSHOTS
+
+### HOME
+
+![WhatsApp Image 2024-01-10 at 2 43 53 PM](https://github.com/gouthamreghu/RealEstate/assets/129669945/d5cb6a78-c7af-4693-852f-eb845e0e0010)
+
+### LOGIN
+
+![localhost_RealEstate-PHP_login php](https://github.com/gouthamreghu/RealEstate/assets/129669945/b54b2faa-80c7-4bd8-82ac-15ea7f943335)
+
+### REGISTER
+
+![localhost_RealEstate-PHP_register php](https://github.com/gouthamreghu/RealEstate/assets/129669945/79206d46-985b-4821-8f41-6af8ef40c492)
+
+### PROPERTY
+
+![localhost_RealEstate-PHP_property php](https://github.com/gouthamreghu/RealEstate/assets/129669945/661f4379-36e4-407e-835b-b9a3dd7906fe)
+
+### CONTACT
+
+![localhost_RealEstate-PHP_contact php](https://github.com/gouthamreghu/RealEstate/assets/129669945/25935c22-31a6-44aa-82d6-63fb9f610230)
+
+### ABOUT
+
+![localhost_RealEstate-PHP_about php](https://github.com/gouthamreghu/RealEstate/assets/129669945/b9a57911-59a5-4500-a585-92429007c24b)
+
+### FEATURES
+
+![localhost_RealEstate-PHP_feature php](https://github.com/gouthamreghu/RealEstate/assets/129669945/a7db0f58-435a-4be6-8437-614a311d4510)
+
+### DATABASE
+
+![Screenshot 2024-01-10 145103](https://github.com/gouthamreghu/RealEstate/assets/129669945/6cc73c96-2e6a-4fe0-860a-2fb9140df3b3)
+
+
+
